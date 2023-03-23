@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/gokseloral/6c25bdee-4244-449c-af7f-fb1f800a0773/39e4a085-28e6-49f3-8d59-177944d755fb/_apis/work/boardbadge/d7c773a5-8012-41e3-b2e4-8b674ffc935c)](https://dev.azure.com/gokseloral/6c25bdee-4244-449c-af7f-fb1f800a0773/_boards/board/t/39e4a085-28e6-49f3-8d59-177944d755fb/Microsoft.RequirementCategory)
 # Cloud for Financial Services (FSI) Samples
 
 Welcome to the samples repo for Cloud for Financial Services (FSI).
